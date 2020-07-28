@@ -1,0 +1,40 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  background-color: #ffffdd;
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+
+h1 {
+  color: #006a71;
+  font-family: sans-serif;
+}
+
+h3 {
+  color: #006a71;
+  font-family: sans-serif;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+table {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+a {
+  font-family: monospace;
+}
+
+ul {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
